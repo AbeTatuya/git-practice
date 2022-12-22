@@ -4,3 +4,4 @@
 rebase-practiceブランチで更新(rebase-conflict用)
 rebase pull用
 stash練習(トラック済み)
+2ndstash
